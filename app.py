@@ -1,0 +1,1 @@
+# ColabMixtral Application to show visually coming soon
