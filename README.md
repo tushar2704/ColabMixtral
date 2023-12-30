@@ -2,7 +2,9 @@
 
 Welcome to the Mixtral 8x7B offloading demo repository! This project aims to demonstrate the seamless execution of Mixtral-8x7B models on Colab or consumer desktops.
 
+![Screenshot 2023-12-30 191022](https://github.com/tushar2704/ColabMixtral/assets/66141195/9f3a9683-9083-4818-b15f-fbb8b4ecbb69)
 ## Getting Started
+
 
 To explore and experience the demo, follow these steps:
 
